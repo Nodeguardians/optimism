@@ -1,10 +1,10 @@
 # Optimism
 
-| Quest                     | Skill      | Type             | Rarity    |
-| ------------------------- | ---------- | ---------------- | --------- |
-| Custom OP Rollup          | Ecosystems | Theory           | Legendary |
-| Hacking the L2 EVM        | Ecosystems | Capture the Flag | Legendary |
-| Cross Layer Communication | Ecosystems | Capture the Flag | Legendary |
+| Quest                    | Skill      | Type             | Rarity    |
+| ------------------------ | ---------- | ---------------- | --------- |
+| Introduction to OP stack | Ecosystems | Theory           | Legendary |
+| Cross Layer Secrets      | Ecosystems | Capture the Flag | Legendary |
+| Custom OP Rollup         | Ecosystems | Capture the Flag | Legendary |
 
 ## Learning Outcome
 
@@ -14,7 +14,11 @@ Users will learn about the OP stack, with both theory content and hands on hacki
 
 [Campaign Description](./description.md) (Start here)
 
-** Custom OP Rollup **
+** Introduction to OP Stack **
+
+In this quest, we explore the different components of the OP stack.
+
+1. [Part 1](./introduction-to-op-stack/introduction-to-op-stack.md)
 
 ** Cross Layer Messaging **
 
@@ -24,6 +28,8 @@ In this quest, we dive into cross layer communication to open a series of locks.
 2. [Part 1](./cross-layer-messaging/description/part1.md)
 3. [Postlude](./cross-layer-messaging/description/postlude.md)
 4. [Summary](./cross-layer-messaging/description/summary.md)
+
+** Custom OP Rollup **
 
 In this quest, we explore the OP Stack and deploy a custom OP rollup based on Sepolia.
 
