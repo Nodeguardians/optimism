@@ -1,5 +1,7 @@
 # Optimism
 
+This repository holds the content of the Node Guardians [Playing With OP Stack](https://nodeguardians.io/campaigns/playing-op-stack) campaign.
+
 | Quest                    | Skill      | Type             | Rarity    |
 | ------------------------ | ---------- | ---------------- | --------- |
 | Introduction to OP stack | Ecosystems | Theory           | Legendary |
